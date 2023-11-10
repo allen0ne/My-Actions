@@ -20,7 +20,7 @@ poetry install && pre-commit install
 
 # 目前模块
 
-1. [贴吧自动签到](./app/tieba.py)
+1. [贴吧自动签到](./app/tieba.py) 
 2. [自动打哔咔](./app/bika.py)
 
 # 定时执行
